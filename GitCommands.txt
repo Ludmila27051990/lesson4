@@ -1,0 +1,14 @@
+g1. Git bash here(windows) || Mac(open terminal >> to work folder)
+2. git init - initialize gti in work folder
+3. git status - for checking file status
+4  git add .
+   git add filename
+5. git commit -m 'Commit name'
+6. Create remote repository
+7. git add remote origin 'repo name'(copy from git)
+8. git push -u origin master
+
+
+
+git config --global --list
+git config --list (настройки гита)
